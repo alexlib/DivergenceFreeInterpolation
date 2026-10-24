@@ -12,3 +12,4 @@ misc/
 
 dist/
 *.egg-info/
+uv.lock
